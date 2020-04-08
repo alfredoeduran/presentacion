@@ -1,6 +1,3 @@
-# Tarjeta de Presentacion hecha con HTML, CSS y Javascript (Jquery)
-### [Tutorial:](http://www.falconmasters.com/cursos/curso-bootstrap/)
+# Tarjeta de Presentacion creada con HTML, CSS y Javascript (Jquery)
 
-![Tarjeta de Presentacion hecha con HTML, CSS y Javascript (Jquery)](https://raw.githubusercontent.com/falconmasters/Tarjeta-de-Presentacion/master/thumb.jpg)
-
-Por: [FalconMasters](http://www.falconmasters.com)
+![Esta es una practica realizada para reforzar los cononcimientos en las tecnologias ya nombradas]()
